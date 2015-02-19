@@ -1,0 +1,23 @@
+{
+  "name": "rolodex",
+  "version": "0.0.1",
+  "homepage": "https://github.com/seansu4you87/rolodex",
+  "authors": [
+    "Sean Yu <seansu4you87@gmail.com>"
+  ],
+  "description": "contacts",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.10.0",
+    "ember-data": "~1.0.0-beta.8"
+  }
+}
